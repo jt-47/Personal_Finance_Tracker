@@ -1,11 +1,11 @@
-#**Project Overview**
+# **Project Overview**
 
 A personal finance analytics project developed in Microsoft Excel to track income, expenses, savings and budget performance 
 over a 3-month period.
 
 The project demonstrates financial reporting, KPI tracking, budget variance analysis, dashboard development, and data-driven decision-making using structured financial data.
 
-#**Business Problem**
+# **Business Problem**
 
 The management of personal finance can often be hard to handle and control if not monitored. It often requires understanding where money is
 spent, how actual spending compares to planned budgets, and which categories drive financial performance.
@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 - Net savings trend
 - Budget variance by category
 
-#**Dataset**
+# **Dataset**
 The dataset consists of personal financial transactions recorded by th autor manually between Aprl and June 2026.
 The data incudes:
 - ID
@@ -32,7 +32,7 @@ The data incudes:
 
 **#DashBoard Preview**
 
-**#What I Built**
+# **What I Built**
 - Structured data-entry system using dependent validation
 - Automated P&L summarisation
 - Category-level expense reporting
@@ -42,14 +42,14 @@ The data incudes:
 - Savings performance tracking
 - Interactive with dashboard KPI monitoring
 
-**Key KPIs**
+# **Key KPIs**
 - Total Income
 - Total Expenses
 - Net Savings
 - Savings Rate
 
 
-#**Executive Summary**
+# **Executive Summary**
 
 **Overview of Findings**
 
@@ -59,7 +59,7 @@ The dominant expense driver was a one-off Education payment of €751.92 in Apri
 
 Net savings improved consistently across the period, recovering from -€636.34 in April to +€137.44 in May and +€225.36 in June — representing a strong positive trajectory driven by the absence of one-off payments in May and June. With the April education payment isolated as non-recurring, the underlying savings trend is healthy and positions the budget well for Q3, provided Transport and Food & Groceries spending is brought back within monthly targets.
 
-**Key Findings**
+# **Key Findings**
 
 1. Income vs Expense by month:
    - Total Q2 expenses of €2,673.54 exceeded income of €2,400 by €273.54 — driven primarily by a one-off Education payment of €751.92 in April representing
@@ -76,7 +76,7 @@ Net savings improved consistently across the period, recovering from -€636.34 
 4. Budget variance by category
    - Transport and Food & Groceries are the only two categories exceeding their quarterly budget targets — all other categories remain within budget
   
-#**Recommendations**
+# **Recommendations**
 
 1. Based on controlled and declining underlying expenses across Q2, I recommend maintaining current spending discipline into Q3 and monitoring monthly totals
    against the €829 budget baseline in order to sustain the positive trajectory
