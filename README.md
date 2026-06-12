@@ -1,11 +1,11 @@
-##**Project Overview**
+#**Project Overview**
 
 A personal finance analytics project developed in Microsoft Excel to track income, expenses, savings and budget performance 
 over a 3-month period.
 
 The project demonstrates financial reporting, KPI tracking, budget variance analysis, dashboard development, and data-driven decision-making using structured financial data.
 
-##**Business Problem**
+#**Business Problem**
 
 The management of personal finance can often be hard to handle and control if not monitored. It often requires understanding where money is
 spent, how actual spending compares to planned budgets, and which categories drive financial performance.
