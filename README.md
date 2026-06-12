@@ -18,7 +18,7 @@ Insights and recommendations are provided on the following key areas:
 - Net savings trend
 - Budget variance by category
 
-**#Dataset**
+#**Dataset**
 The dataset consists of personal financial transactions recorded by th autor manually between Aprl and June 2026.
 The data incudes:
 - ID
@@ -75,6 +75,18 @@ Net savings improved consistently across the period, recovering from -€636.34 
 
 4. Budget variance by category
    - Transport and Food & Groceries are the only two categories exceeding their quarterly budget targets — all other categories remain within budget
+  
+#**Recommendations**
+
+1. Based on controlled and declining underlying expenses across Q2, I recommend maintaining current spending discipline into Q3 and monitoring monthly totals
+   against the €829 budget baseline in order to sustain the positive trajectory
+2. Based on Education and Rent representing 78.78% of total Q2 expenses, I recommend provisioning the next semester fee of €755 at €126/month from July 2026 in
+   order to avoid a repeat cash deficit and ensure smoother monthly cash flow management
+3. Based on net savings improving from -€636.34 to +€225.36 across Q2, I recommend establishing a formal monthly savings target of €200 for Q3 and directing
+   surplus into a dedicated emergency fund in order to build financial resilience against future one-off expenses
+4. Based on Transport and Food & Groceries being the only two categories exceeding quarterly budget targets by €28 and €24.29 respectively, I recommend setting a
+   weekly grocery limit of €35 and consolidating transport usage in order to bring both categories within monthly targets in Q3 — generating an estimated
+   additional €52 in monthly savings  
 
 
 
