@@ -1,4 +1,4 @@
-**#Project Overview**
+**##Project Overview**
 
 A personal finance analytics project developed in Microsoft Excel to track income, expenses, savings and budget performance 
 over a 3-month period.
