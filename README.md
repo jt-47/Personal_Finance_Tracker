@@ -53,7 +53,7 @@ The data incudes:
 
 **Overview of Findings**
 
-<img width="1417" height="775" alt="final_dashbboard_1" src="https://github.com/user-attachments/assets/e132e1a7-23fa-4a6c-b96a-e3151898352e" />
+<img width="1415" height="782" alt="final_dashbboard_2" src="https://github.com/user-attachments/assets/5a8f31b6-f72f-40d8-90f9-259fb7aa7cf4" />
 
 # **Key Findings**
 
