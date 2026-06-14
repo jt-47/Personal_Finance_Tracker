@@ -30,7 +30,7 @@ The data incudes:
 - PAYMENT (Cash, CreditCard, BankTransfer, DirectDebit)
 - STATUS (Paid, Pending, Overdue)
 
-**#DashBoard Preview**
+<img width="622" height="197" alt="Screenshot 2026-06-14 133304" src="https://github.com/user-attachments/assets/39f34001-7a2b-4858-bbd9-b4e73f0b699a" />
 
 # **What I Built**
 - Structured data-entry system using dependent validation
